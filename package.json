@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Raveen-AJ/make-tea#readme",
   "dependencies": {
     "chalk": "^5.3.0",
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "make-teacup": "^1.0.0"
   }
 }
